@@ -1,0 +1,17 @@
+.body_background{
+      background-image: url("bg1 copy.jpg");
+      background-position: center;
+    background-size: cover;
+  }
+  span{
+      font-size: 20px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      color: #9e1c29;
+  }
+  input{
+      border-radius: 25px;
+  }
+
+  #MyCanvas{
+    border: 3px ridge rgba(172, 192, 239, 0.985);
+  }
